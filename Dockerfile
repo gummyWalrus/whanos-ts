@@ -1,4 +1,4 @@
-FROM whanos-javascript
+FROM lanico/whanos-javascript
 
 RUN npm install -g typescript@4.4.3
 
